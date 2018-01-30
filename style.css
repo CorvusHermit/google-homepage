@@ -1,0 +1,14 @@
+div {
+	display: block;
+}
+
+.head {
+	background-color: white;
+	border-bottom: 1px solid #b6b6b6;
+	height: 58px;
+}
+
+#image_logo {
+	height: 44px;
+	width: 120px;
+}
