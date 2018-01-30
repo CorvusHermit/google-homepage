@@ -1,1 +1,1 @@
-This project's goal is to create a replica of Google homepage. This is part of The Odin Project's basic HTML and CSS tutorial. Project created by Adrian Riadi (CorvusHermit)
+This project's goal is to create a replica of Google homepage. This is part of The Odin Project's basic HTML and CSS tutorial. Project created by CorvusHermit
