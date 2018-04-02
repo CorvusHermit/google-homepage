@@ -163,3 +163,8 @@ input:focus {
 	width: 20px;
 	height: 20px;
 }
+
+div .search_result {
+	display: block;
+	border: 1px solid #dddddd;
+}
